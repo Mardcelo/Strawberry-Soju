@@ -1,2 +1,3 @@
 # Strawberry Soju
-Going to be blog posted soon. 
+
+This wont be open-sourced before BSides London. 
