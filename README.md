@@ -1,3 +1,3 @@
 # Strawberry Soju
 
-This wont be open-sourced before BSides London. 
+This wont be open-sourced 
